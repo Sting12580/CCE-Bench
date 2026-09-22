@@ -1,0 +1,25 @@
+setting,analysis_scope,panel,method,method_alias,nSAE,row_MAE_native,n_seeds,semantic_validation
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,counselbench,A_DM,,0.06547215626923181,0.6473339984800586,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,counselbench,CONTEXT,,0.04053061986584166,0.6458048976670189,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,counselbench,J0_RAW,,0.26850000000000007,1.102,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,counselbench,J0_CAL,,0.1269751511962027,0.6307133016591672,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,counselbench,R0,C*,0.017963038384701827,0.5461949836040509,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,counselbench,R2,,0.1276748168474867,0.6862888407884767,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,psycsumeval,A_DM,,0.05588057084598411,0.37845688658772875,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,psycsumeval,CONTEXT,,0.013390688203165135,0.38976565318883577,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,psycsumeval,J0_RAW,,0.15315315315315314,0.3063063063063063,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,psycsumeval,J0_CAL,,0.01932783511277429,0.3931340523697243,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,psycsumeval,R0,C*,0.01932783511277429,0.3931340523697243,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,psycsumeval,R2,,0.022773680297802218,0.38186237015687724,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,rwanda,A_DM,,0.0031343119439266862,0.40142602425228796,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,rwanda,CONTEXT,,0.02852004231748444,0.29506198935408845,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,rwanda,J0_RAW,,0.09560276679841899,0.5108695652173914,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,rwanda,J0_CAL,,0.028604796699929404,0.29549980202205217,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,rwanda,R0,C*,0.02852004231748599,0.2950619893540878,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,rwanda,R2,,0.0287648595940003,0.29244648264443945,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,warmth_substance,A_DM,,0.05454566833390112,0.7799943235178407,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,warmth_substance,CONTEXT,,0.0552616903373899,0.7342169617169823,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,warmth_substance,J0_RAW,,0.26091269841269843,1.123015873015873,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,warmth_substance,J0_CAL,,0.06386916431738587,0.7682782646108731,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,warmth_substance,R0,C*,0.06296546349142226,0.7597295496730865,3,incomplete
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,warmth_substance,R2,,0.07279766018525011,0.7856970905304175,3,incomplete

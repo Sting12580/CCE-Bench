@@ -1,0 +1,7 @@
+setting,method,variant,macro_nSAE_mean,macro_nSAE_std,macro_nMAE_mean,macro_nRMSE_mean,interpretation,method_id,role,analysis_scope
+Formal-12,Source Mean,source prior,0.09923556621626706,,0.19380343090559218,0.2269139538291077,baseline,M1_SOURCE_MEAN,primary,retrospective fixed-target evaluation
+Formal-12,DM,BGE-M3 + Source-only learned projection + GBR,0.06939401201371061,0.0011356182247723634,0.14649071177714845,0.19329456567947953,strong direct baseline,M3_FORMAL_BGE_M3_DM,primary,retrospective fixed-target evaluation
+Formal-12,SN-MIPS,BGE-M3 + Source-score-informed learned576 representation; strict item cross-fitting and nested Platt calibration,0.07553205239511347,0.0019243590615260486,,,panel-value estimator; row metrics unavailable,M13_V2_SN_MIPS_BGE_LEARNED576_STRICT_CF,corrected primary,post-gold retrospective analysis
+Formal-12,Project SNDR,project-specific OPE analogue,0.06656493953378247,0.002808099408129989,0.1422001374706444,0.19063161218325642,not an official OffCEM reproduction,M14_V2_SNDR_BGE_REWEIGHTED,corrected primary,post-gold retrospective analysis
+Formal-12,BERT control,lambda=0,0.052713375185794054,0.015951977127421718,0.15228886362554614,0.1933283362800491,auxiliary matched non-adversarial control,M6_CTRL_BERT_DM_L0,auxiliary control,retrospective fixed-target evaluation
+Formal-12,DANN,BERT lambda=0.1,0.05282610515458875,0.014270848981566704,0.15110643649725827,0.19293380570782634,no confirmed aggregate gain over matched control,M6_BERT_DANN_L0P1,primary,retrospective fixed-target evaluation

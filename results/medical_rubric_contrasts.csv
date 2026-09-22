@@ -1,0 +1,5 @@
+setting,analysis_scope,comparison,metric,delta,ci95_lower,ci95_upper,scope
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,R2_minus_A_DM,Macro-nSAE,0.018244577382873897,-0.004853237752795578,0.04314296577184801,archived unadjusted 95% interval; fixed diagnostic responders; selected comparisons from larger family
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,R2_minus_J0_CAL,Macro-nSAE,0.0033085173995617626,-0.0023294683574727857,0.008288627876997539,archived unadjusted 95% interval; fixed diagnostic responders; selected comparisons from larger family
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,R2_minus_J0_RAW,Macro-nSAE,-0.13153940035993283,-0.1536018456509477,-0.10852810541809864,archived unadjusted 95% interval; fixed diagnostic responders; selected comparisons from larger family
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,R2_minus_R0,Macro-nSAE,0.030808659404538738,0.022158271786403626,0.0350874465465524,archived unadjusted 95% interval; fixed diagnostic responders; selected comparisons from larger family

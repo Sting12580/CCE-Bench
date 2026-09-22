@@ -1,0 +1,13 @@
+setting,analysis_scope,protocol,panel,rubric,diagnostic_responder,excluded_formal_target,n_test,n_train,n_development_responders,n_development_machine_responders,scale_min,scale_max,main
+Source-held-out-Diagnostics,retrospective fixed-responder diagnostic,C,counselbench,overall,gemini,llama3,100,200,2,1,1,5,True
+Source-held-out-Diagnostics,retrospective fixed-responder diagnostic,C,gbb_jme,avg,gemini-2.0-flash-001,us.anthropic.claude-3-7-sonnet-20250219-v1:0,60,180,3,3,1,10,True
+Source-held-out-Diagnostics,retrospective fixed-responder diagnostic,C,hanna,coherence,BertGeneration,GPT-2 (tag),96,864,9,8,1,5,True
+Source-held-out-Diagnostics,retrospective fixed-responder diagnostic,C,openmeva_roc,overall,gpt_kg,gpt,200,600,3,3,1,5,True
+Source-held-out-Diagnostics,retrospective fixed-responder diagnostic,C,openmeva_wp,overall,fusion,gpt,200,600,3,3,1,5,True
+Source-held-out-Diagnostics,retrospective fixed-responder diagnostic,C,psycsumeval,main_findings,GPT-4o-mini,Claude Opus,111,222,2,2,0,2,True
+Source-held-out-Diagnostics,retrospective fixed-responder diagnostic,C,rwanda,alignment_with_medical_consensus,gpt-4o,deepseek-r1,506,1518,3,2,1,5,True
+Source-held-out-Diagnostics,retrospective fixed-responder diagnostic,C,summeval,consistency,M23,M14,100,1400,14,14,1,5,True
+Source-held-out-Diagnostics,retrospective fixed-responder diagnostic,C,warmth_substance,clinical_accuracy,claude,deepseek,126,252,2,2,1,5,True
+Source-held-out-Diagnostics,retrospective fixed-responder diagnostic,C,wellbeing_advice_study1,effectiveness,gpt-5,gpt-4o,50,100,2,0,1,7,False
+Source-held-out-Diagnostics,retrospective fixed-responder diagnostic,C,wmt20_ende,psqm,Tencent_Translation.1520,Huoshan_Translate.832,1387,11096,8,5,0,6,True
+Source-held-out-Diagnostics,retrospective fixed-responder diagnostic,C,wmt20_zhen,psqm,DeepMind.381,Tencent_Translation.1249,1986,15888,8,6,0,6,True

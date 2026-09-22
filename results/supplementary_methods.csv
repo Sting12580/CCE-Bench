@@ -1,0 +1,10 @@
+setting,analysis_scope,study,panel,metric,method,value,comparator,comparator_value,interpretation,report_location
+Historical-LOAO,retrospective exploratory study,same-item residual models,CounselBench,native row MAE,PairDelta,0.571146,Context,0.483443,Retrospective; reliability-weighted ablations have a Source-deletion limitation.,Appendix D
+Historical-LOAO,retrospective exploratory study,same-item residual models,Rwanda overall11,native row MAE,PairDelta,0.302190,Context,0.303285,The paired interval does not establish superiority; Agent median is 0.288358.,Appendix D
+Historical-LOAO,retrospective exploratory study,same-item residual models,CounselBench,native row MAE,Masked Responder Bridge,0.576176,Context,0.483443,Attention diagnostics do not establish useful learned responder attention.,Appendix D
+Historical-LOAO,retrospective exploratory study,same-item residual models,Rwanda overall11,native row MAE,Masked Responder Bridge,0.314179,Context,0.303285,Attention diagnostics do not establish useful learned responder attention.,Appendix D
+Historical-LOAO,retrospective exploratory study,reliability and routing,Rwanda overall11,native row MAE,SSA-inspired deferral,0.300916,Context,0.303285,Protocol adaptation; not a neural SSA reproduction.,Appendix D
+Historical-LOAO,retrospective exploratory study,reliability and routing,Rwanda overall11,native row MAE,Expanded scalar shrinkage,0.297306,Agent median,0.288358,The simpler Agent median remains better.,Appendix D
+Historical-LOAO,retrospective exploratory study,reliability and routing,CounselBench,native row MAE,Direct multi-expert routing,0.615969,Context,0.483443,No general improvement across datasets.,Appendix D
+Historical-LOAO,retrospective exploratory study,reliability and routing,Rwanda overall11,native row MAE,Direct multi-expert routing,0.297487,Context,0.303285,Still worse than Agent median at 0.288358.,Appendix D
+Diagnostic-4P,retrospective exploratory study,self-supervised pretraining,PsycSumEval,nSAE,F7_RANDOM,0.064869,neural NONE,0.156373,One of 16 comparisons passes against neural NONE; classical F7 remains better at 0.010382.,Appendix D

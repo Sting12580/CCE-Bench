@@ -1,0 +1,5 @@
+setting,panel,target,method,representation,mae_mean,mae_std,abs_bias_mean,scope,analysis_scope
+Historical-LOAO,CounselBench,GPT-4,Pooled BERT scalar,BERT-512 fine-tuned outcome head,0.6354625583489737,0.038439841844854085,0.17619895275433856,targeted retrospective,retrospective exploratory study
+Historical-LOAO,CounselBench,GPT-4,Pooled GBDT,BGE-M3 + Source-only learned projection,0.5606326133983245,0.06369835168878954,0.09179010126674075,targeted retrospective,retrospective exploratory study
+Historical-LOAO,Rwanda,DeepSeek-R1,Pooled BERT scalar,BERT-512 fine-tuned outcome head,0.6904649149087935,0.0034462090958350946,0.19544324784639253,targeted retrospective,retrospective exploratory study
+Historical-LOAO,Rwanda,DeepSeek-R1,Pooled GBDT,BGE-M3 + Source-only learned projection,0.5378248743337272,0.0020516437190300765,0.32946872701257357,targeted retrospective,retrospective exploratory study

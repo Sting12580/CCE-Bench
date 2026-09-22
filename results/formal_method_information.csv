@@ -1,0 +1,7 @@
+setting,analysis_scope,method,method_id,source_scores,target_scores_for_fit,target_answer_inference,target_batch_changes_reward_prediction,target_domain_batches_executed,native_output,role,source_validation
+Formal-12,retrospective fixed-target evaluation,Source Mean,M1_SOURCE_MEAN,True,False,False,False,False,row_predictions_and_panel_value,primary,none
+Formal-12,retrospective fixed-target evaluation,DM,M3_FORMAL_BGE_M3_DM,True,False,True,False,False,row_predictions_and_panel_value,primary,legacy 20% Source-row representation validation
+Formal-12,retrospective fixed-target evaluation,DANN,M6_BERT_DANN_L0P1,True,False,True,True,True,row_predictions_and_panel_value,primary,one fixed item fold indexed by seed; other four train
+Formal-12,retrospective fixed-target evaluation,BERT lambda=0,M6_CTRL_BERT_DM_L0,True,False,True,False,True,row_predictions_and_panel_value,auxiliary control,one fixed item fold indexed by seed; other four train
+Formal-12,post-gold retrospective analysis,SN-MIPS,M13_V2_SN_MIPS_BGE_LEARNED576_STRICT_CF,True,False,True,True,True,panel_value_only,corrected primary,strict five item-fold density cross-fit and nested Platt
+Formal-12,post-gold retrospective analysis,SNDR,M14_V2_SNDR_BGE_REWEIGHTED,True,False,True,True,True,row_predictions_and_panel_value,corrected primary,reuse same-seed Source OOF outcomes; corrected density weights

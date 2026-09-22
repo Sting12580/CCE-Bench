@@ -1,0 +1,7 @@
+setting,analysis_scope,method,method_alias,macro_nSAE,panels,description,semantic_validation,panel_seed_cells_improved_vs_R0,panel_seed_cells_worsened_vs_R0,panel_seed_cells_tied_vs_R0
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,A_DM,,0.04475817684826093,4,same diagnostic DM baseline,incomplete,,,
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,CONTEXT,,0.03442576018097029,4,earlier Context configuration; distinct from selected C*,incomplete,,,
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,J0_RAW,,0.19454215459106766,4,direct gpt-4.1-mini rubric score,incomplete,,,
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,J0_CAL,,0.059694236831573065,4,Source-supervised Context plus LLM-score prediction,incomplete,,,
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,R0,C*,0.03219409482659609,4,reused Stage-1 Source-selected C*; no LLM score,incomplete,,,
+Diagnostic-4P-Medical-Rubric,retrospective fixed-responder diagnostic,R2,,0.06300275423113483,4,C* plus LLM rubric semantic features,incomplete,1,11,0

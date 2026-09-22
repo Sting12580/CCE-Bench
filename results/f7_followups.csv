@@ -1,0 +1,25 @@
+setting,panel,method,n_features,nSAE,interpretation,nMAE,nRMSE,analysis_scope
+Diagnostic-4P,CounselBench,LITE_1,1,0.08225567071104077,retrospective diagnostic; no general replacement claim,0.16814125613262196,0.20293131151843838,retrospective fixed-responder diagnostic
+Diagnostic-4P,CounselBench,LITE_3,3,0.057528964377151486,retrospective diagnostic; no general replacement claim,0.17169115264393106,0.20536075577750582,retrospective fixed-responder diagnostic
+Diagnostic-4P,CounselBench,LITE_5,5,0.05710365128358738,retrospective diagnostic; no general replacement claim,0.171639828375556,0.2052862664997177,retrospective fixed-responder diagnostic
+Diagnostic-4P,CounselBench,LITE_9,9,0.013915775587788828,retrospective diagnostic; no general replacement claim,0.1429474174095597,0.17835778617071985,retrospective fixed-responder diagnostic
+Diagnostic-4P,CounselBench,F7_19,19,0.022717913705307055,fixed F7 reference,0.15614349418296405,0.19603260159108313,retrospective fixed-responder diagnostic
+Diagnostic-4P,PsycSumEval,LITE_1,1,0.07527124004557441,retrospective diagnostic; no general replacement claim,0.23744689585298226,0.24710908662942552,retrospective fixed-responder diagnostic
+Diagnostic-4P,PsycSumEval,LITE_3,3,0.07358969775081693,retrospective diagnostic; no general replacement claim,0.2374041605562411,0.24779739394735456,retrospective fixed-responder diagnostic
+Diagnostic-4P,PsycSumEval,LITE_5,5,0.07338643768649548,retrospective diagnostic; no general replacement claim,0.23737152365377792,0.24795303301735647,retrospective fixed-responder diagnostic
+Diagnostic-4P,PsycSumEval,LITE_9,9,0.010977506530542394,retrospective diagnostic; no general replacement claim,0.1999512013460154,0.22687602446200747,retrospective fixed-responder diagnostic
+Diagnostic-4P,PsycSumEval,F7_19,19,0.010381522014034129,fixed F7 reference,0.20021267810208454,0.2267154855847698,retrospective fixed-responder diagnostic
+Diagnostic-4P,Rwanda,LITE_1,1,0.005543816327670392,retrospective diagnostic; no general replacement claim,0.09870736400587284,0.14431290880168327,retrospective fixed-responder diagnostic
+Diagnostic-4P,Rwanda,LITE_3,3,0.0094523986009529,retrospective diagnostic; no general replacement claim,0.08055042259913893,0.1300353635953717,retrospective fixed-responder diagnostic
+Diagnostic-4P,Rwanda,LITE_5,5,0.013566396536223596,retrospective diagnostic; no general replacement claim,0.07726556140195791,0.12937048011153743,retrospective fixed-responder diagnostic
+Diagnostic-4P,Rwanda,LITE_9,9,0.015351408380141715,retrospective diagnostic; no general replacement claim,0.07586777141958075,0.1307331882819178,retrospective fixed-responder diagnostic
+Diagnostic-4P,Rwanda,F7_19,19,0.009801640170268983,fixed F7 reference,0.07752983782437545,0.1295734089846784,retrospective fixed-responder diagnostic
+Diagnostic-4P,Warmth-Substance,LITE_1,1,0.058338548735901254,retrospective diagnostic; no general replacement claim,0.19002804024263517,0.23822017909743617,retrospective fixed-responder diagnostic
+Diagnostic-4P,Warmth-Substance,LITE_3,3,0.062142530404759054,retrospective diagnostic; no general replacement claim,0.19054309533441413,0.239776607567729,retrospective fixed-responder diagnostic
+Diagnostic-4P,Warmth-Substance,LITE_5,5,0.062142530404759054,retrospective diagnostic; no general replacement claim,0.19054309533441413,0.239776607567729,retrospective fixed-responder diagnostic
+Diagnostic-4P,Warmth-Substance,LITE_9,9,0.06889016102538344,retrospective diagnostic; no general replacement claim,0.19251685066001933,0.23925608005005938,retrospective fixed-responder diagnostic
+Diagnostic-4P,Warmth-Substance,F7_19,19,0.054953224018872295,fixed F7 reference,0.18457500388558265,0.23402819319260768,retrospective fixed-responder diagnostic
+Diagnostic-4P,CounselBench,SVR selected,19,0.0400786235515869,replacement gate failed,0.15220484851705315,,retrospective fixed-responder diagnostic
+Diagnostic-4P,PsycSumEval,SVR selected,19,0.026357484736975134,replacement gate failed,0.18527904129401795,,retrospective fixed-responder diagnostic
+Diagnostic-4P,Rwanda,SVR selected,19,0.015336099353072527,replacement gate failed,0.0752184948843715,,retrospective fixed-responder diagnostic
+Diagnostic-4P,Warmth-Substance,SVR selected,19,0.06095836495952189,replacement gate failed,0.1941952708845874,,retrospective fixed-responder diagnostic

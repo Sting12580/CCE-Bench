@@ -1,0 +1,6 @@
+setting,method,n,rmse,mae,mean_bias,interpretation,analysis_scope
+Judge-Cal,Weighted judge,721,0.1904139275,0.1450575999,-0.0161281277,small aggregate gain over unweighted mean,retrospective exploratory study
+Judge-Cal,Unweighted mean,721,0.1922522768,0.1471458622,-0.0147441054,uniform baseline,retrospective exploratory study
+Judge-Cal,Median,721,0.1964937909,0.147056172,-0.0209882108,robust aggregation baseline,retrospective exploratory study
+Judge-Cal,Best single judge,721,0.2220184054,0.1738037448,0.0378606103,single-judge baseline,retrospective exploratory study
+Judge-Cal,Ridge stacking,721,0.1892096704,0.1469235167,0.017542226,unconstrained learned comparator,retrospective exploratory study

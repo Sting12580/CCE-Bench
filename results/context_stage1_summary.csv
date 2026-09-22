@@ -1,0 +1,4 @@
+setting,method,macro_nSAE,role,interpretation,macro_nMAE,macro_nRMSE,panels,analysis_scope
+Diagnostic-4P,DM,0.04475817684826093,direct baseline,same four fixed diagnostic responders,0.1616042574641028,0.21286834902415763,4,retrospective fixed-responder diagnostic
+Diagnostic-4P,C* selected,0.03219409482659609,Source-only selection procedure,actual Stage-1 procedure; two panels improve and two worsen versus DM,0.14920341421066713,0.1924860645883641,4,retrospective fixed-responder diagnostic
+Diagnostic-4P,Fixed F7,0.024463574977120615,fixed post-hoc diagnostic candidate,inspected candidate; not fresh confirmatory selection,0.15461525349875166,0.19658742233828475,4,retrospective fixed-responder diagnostic
